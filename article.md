@@ -51,8 +51,7 @@ sn=Ellingwood,ou=people,dc=digitalocean,dc=com
 Атрибуты определяются с использованием достаточно сложного синтаксиса. Это определение для атрибута name:
 
 ```
-attributetype ( 2.5.4.41 NAME 'name' DESC 'RFC4519: 
-										common supertype of name attributes'
+attributetype ( 2.5.4.41 NAME 'name' DESC 'RFC4519: common supertype of name attributes'
         EQUALITY caseIgnoreMatch
         SUBSTR caseIgnoreSubstringsMatch
         SYNTAX 1.3.6.1.4.1.1466.115.121.1.15{32768} )
