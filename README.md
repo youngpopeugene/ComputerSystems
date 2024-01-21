@@ -1,2 +1,4 @@
 # ComputerSystems
-ITMO — Semester 5 — ComputerSystems
+### Что такое LDAP-протокол, иерархия данных? Определение компонентов данных LDAP. Когда и почему LDAP лучше, чем база данных?
+
+
